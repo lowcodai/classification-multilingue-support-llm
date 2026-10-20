@@ -1,0 +1,12 @@
+{
+  "Billing and Payments": "facturation, paiements, abonnements, remboursements d'un montant, moyens de paiement",
+  "Customer Service": "relation client générale, suivi de commande ou de compte, réclamations, demandes non techniques",
+  "General Inquiry": "question générale ou demande d'information qui ne relève d'aucune autre file",
+  "Human Resources": "demandes liées aux ressources humaines (employés, paie, recrutement, congés)",
+  "IT Support": "support informatique interne : postes, comptes, accès, configuration, installation de logiciels et d'équipements",
+  "Product Support": "questions et aide sur l'utilisation, les caractéristiques ou la compatibilité d'un produit",
+  "Returns and Exchanges": "retours, échanges, produit défectueux ou non conforme à renvoyer",
+  "Sales and Pre-Sales": "avant-vente, devis, offres commerciales, démonstrations, conseil avant achat",
+  "Service Outages and Maintenance": "pannes de service, indisponibilités, maintenance planifiée",
+  "Technical Support": "diagnostic technique d'un incident ou d'un dysfonctionnement logiciel ou matériel"
+}

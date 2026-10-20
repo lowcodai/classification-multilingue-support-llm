@@ -1,0 +1,13 @@
+# torch : installer d'abord la version adaptée à votre CUDA (voir README)
+jupyterlab
+ipykernel
+transformers
+peft
+accelerate
+scikit-learn
+sentence-transformers
+openai
+pandas
+numpy
+matplotlib
+tqdm

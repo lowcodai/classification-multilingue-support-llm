@@ -1,0 +1,121 @@
+ticket,queue,Qwen3-8B (sans personnalisation),"Qwen3-8B sans personnalisation, prompt compact",Qwen3-8B + LoRA (personnalisé),"Qwen3.8-27B (vLLM, sans personnalisation)",TF-IDF + régression logistique (sans LLM),1 plus proche voisin bge-m3 (sans LLM)
+5,Product Support,Technical Support,Product Support,Product Support,Technical Support,Product Support,Product Support
+17,Customer Service,IT Support,Product Support,Customer Service,Technical Support,Technical Support,Customer Service
+18,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+21,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+28,Customer Service,IT Support,IT Support,Customer Service,Sales and Pre-Sales,Customer Service,Customer Service
+36,Product Support,Product Support,Product Support,Product Support,Returns and Exchanges,Technical Support,Product Support
+40,Technical Support,Technical Support,IT Support,IT Support,Technical Support,IT Support,IT Support
+47,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+55,Product Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Product Support
+57,Customer Service,Technical Support,Product Support,Customer Service,Technical Support,Customer Service,Customer Service
+60,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+66,Customer Service,Technical Support,Product Support,Customer Service,Technical Support,Technical Support,Customer Service
+79,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+81,Customer Service,Technical Support,Technical Support,Customer Service,Technical Support,Customer Service,Customer Service
+82,Sales and Pre-Sales,Customer Service,Customer Service,Sales and Pre-Sales,Sales and Pre-Sales,Sales and Pre-Sales,Sales and Pre-Sales
+92,Technical Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support
+94,Product Support,Technical Support,Product Support,Product Support,Technical Support,Technical Support,Product Support
+95,Human Resources,IT Support,IT Support,Human Resources,Service Outages and Maintenance,Technical Support,Human Resources
+98,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance
+105,Product Support,Product Support,Product Support,Product Support,Technical Support,Product Support,Product Support
+106,IT Support,Technical Support,Product Support,IT Support,Technical Support,IT Support,IT Support
+119,IT Support,Product Support,Product Support,IT Support,Technical Support,Technical Support,IT Support
+122,Technical Support,IT Support,Product Support,Technical Support,IT Support,Technical Support,Technical Support
+125,Technical Support,Technical Support,Technical Support,Technical Support,IT Support,Technical Support,Technical Support
+126,Technical Support,Product Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support
+128,Technical Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support
+133,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+140,Service Outages and Maintenance,Service Outages and Maintenance,IT Support,IT Support,Service Outages and Maintenance,Technical Support,Service Outages and Maintenance
+141,Technical Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support
+143,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,IT Support,IT Support
+144,Customer Service,Technical Support,Product Support,Customer Service,IT Support,Technical Support,Customer Service
+148,Technical Support,IT Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+152,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments
+155,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+157,Technical Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support
+165,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+172,Technical Support,IT Support,IT Support,Technical Support,IT Support,Technical Support,Technical Support
+189,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments
+204,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+207,Product Support,Technical Support,Product Support,Product Support,Technical Support,Product Support,Product Support
+218,Product Support,Technical Support,Technical Support,Product Support,Technical Support,Product Support,Product Support
+222,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+223,IT Support,Technical Support,IT Support,IT Support,Sales and Pre-Sales,Technical Support,IT Support
+233,IT Support,IT Support,IT Support,IT Support,IT Support,IT Support,IT Support
+234,IT Support,Technical Support,Product Support,Technical Support,Technical Support,IT Support,IT Support
+245,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Technical Support,Billing and Payments
+248,Product Support,Technical Support,IT Support,Product Support,Technical Support,Technical Support,Product Support
+249,IT Support,Technical Support,IT Support,IT Support,Technical Support,IT Support,IT Support
+268,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+269,Customer Service,Technical Support,Technical Support,Customer Service,Technical Support,Customer Service,Customer Service
+271,IT Support,Service Outages and Maintenance,IT Support,IT Support,Service Outages and Maintenance,IT Support,IT Support
+272,Customer Service,IT Support,Product Support,Customer Service,Technical Support,Technical Support,Customer Service
+276,Technical Support,Technical Support,IT Support,Product Support,Product Support,Product Support,Product Support
+281,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments
+283,Technical Support,Technical Support,IT Support,Technical Support,IT Support,Technical Support,Technical Support
+287,General Inquiry,Product Support,Product Support,General Inquiry,Technical Support,General Inquiry,General Inquiry
+293,Sales and Pre-Sales,Technical Support,Product Support,Sales and Pre-Sales,Sales and Pre-Sales,Technical Support,Sales and Pre-Sales
+299,Billing and Payments,Product Support,Product Support,Billing and Payments,IT Support,Billing and Payments,Billing and Payments
+300,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+303,Customer Service,Technical Support,Technical Support,Customer Service,Technical Support,Technical Support,Customer Service
+308,Customer Service,Product Support,Product Support,Customer Service,Returns and Exchanges,Returns and Exchanges,Customer Service
+314,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments
+320,Technical Support,Product Support,Product Support,Technical Support,Product Support,Technical Support,Technical Support
+335,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+343,Customer Service,Technical Support,Product Support,Customer Service,Technical Support,Technical Support,Customer Service
+349,Product Support,Technical Support,IT Support,Product Support,Technical Support,Product Support,Product Support
+355,Customer Service,Product Support,Product Support,Product Support,Technical Support,Product Support,Customer Service
+359,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+362,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges
+364,Customer Service,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Customer Service,Customer Service
+369,IT Support,Technical Support,Product Support,IT Support,Technical Support,IT Support,IT Support
+371,IT Support,IT Support,Product Support,IT Support,IT Support,IT Support,IT Support
+375,IT Support,Product Support,Product Support,IT Support,Product Support,IT Support,IT Support
+376,Sales and Pre-Sales,Product Support,Product Support,Sales and Pre-Sales,Technical Support,Product Support,Sales and Pre-Sales
+383,Customer Service,Product Support,Product Support,Customer Service,Technical Support,Technical Support,Customer Service
+387,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+388,Technical Support,IT Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+392,Technical Support,Returns and Exchanges,Returns and Exchanges,Technical Support,Technical Support,Technical Support,Technical Support
+398,Product Support,Product Support,Product Support,Product Support,Technical Support,Customer Service,Product Support
+399,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments
+408,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+419,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+420,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+431,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Technical Support,Returns and Exchanges
+437,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Technical Support,Returns and Exchanges
+443,IT Support,IT Support,IT Support,IT Support,IT Support,IT Support,IT Support
+444,Product Support,Product Support,Product Support,Product Support,Technical Support,Technical Support,Product Support
+460,Product Support,Product Support,Product Support,Product Support,Returns and Exchanges,Technical Support,Product Support
+461,Product Support,Product Support,Product Support,Product Support,Technical Support,Customer Service,Product Support
+462,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Service Outages and Maintenance,Technical Support,Service Outages and Maintenance
+463,Customer Service,IT Support,Product Support,Customer Service,IT Support,Customer Service,Customer Service
+468,IT Support,Technical Support,IT Support,IT Support,Technical Support,IT Support,IT Support
+471,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+475,Product Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Product Support
+481,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,IT Support,Technical Support
+489,IT Support,Technical Support,IT Support,IT Support,Technical Support,Technical Support,IT Support
+496,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Customer Service,Returns and Exchanges
+501,Billing and Payments,Billing and Payments,Product Support,Billing and Payments,Billing and Payments,IT Support,Billing and Payments
+507,IT Support,Technical Support,Product Support,IT Support,IT Support,Technical Support,IT Support
+510,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges
+516,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges
+517,Technical Support,Technical Support,IT Support,Technical Support,IT Support,Product Support,Technical Support
+522,Human Resources,IT Support,IT Support,Human Resources,Technical Support,Human Resources,Human Resources
+523,IT Support,Technical Support,IT Support,IT Support,Technical Support,IT Support,IT Support
+524,Product Support,Product Support,Product Support,Product Support,Product Support,Product Support,Product Support
+530,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges
+531,Technical Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support
+532,Product Support,Technical Support,IT Support,Product Support,Technical Support,Technical Support,Product Support
+539,Human Resources,IT Support,IT Support,Human Resources,Technical Support,Human Resources,Human Resources
+540,Customer Service,Technical Support,IT Support,Customer Service,Technical Support,Technical Support,Customer Service
+541,Technical Support,Technical Support,IT Support,Technical Support,Technical Support,Technical Support,Technical Support
+544,Product Support,Technical Support,IT Support,Product Support,Technical Support,Technical Support,Product Support
+553,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments,Billing and Payments
+562,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support,Technical Support
+574,Product Support,Technical Support,IT Support,Product Support,Technical Support,Product Support,Product Support
+576,Customer Service,IT Support,IT Support,Customer Service,Technical Support,Product Support,Customer Service
+582,Product Support,Product Support,Product Support,Product Support,Product Support,Product Support,Product Support
+588,Technical Support,IT Support,Product Support,Technical Support,IT Support,Technical Support,Technical Support
+594,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Returns and Exchanges,Technical Support,Returns and Exchanges
+596,Technical Support,Technical Support,Product Support,Technical Support,Technical Support,Technical Support,Technical Support

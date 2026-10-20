@@ -1,0 +1,5 @@
+similarité max avec l'entraînement,tickets de test,exactitude non personnalisé,exactitude personnalisé,exactitude 1-PPV
+"< 0,85",7,0.571,0.857,1.0
+"0,85 – 0,90",25,0.4,0.84,0.92
+"0,90 – 0,95",54,0.648,0.944,0.981
+"≥ 0,95 (quasi-copie)",34,0.441,1.0,1.0

@@ -1,0 +1,494 @@
+ticket,subject,body,queue,language,business_type
+5,Problema com o Trackpad do Dell XPS 13 9310 que não responde,"Caro Suporte ao Cliente da Tech Online Store,
+
+Estou entrando em contato para relatar um problema com meu Dell XPS 13 9310. O trackpad fica sem resposta e frequentemente apresenta atrasos sempre que o laptop está desacoplado da fonte de energia. Agradeceria qualquer assistência ou orientação para resolver esse problema o mais rápido possível. Obrigado.
+
+Atenciosamente,
+<name>",Product Support,pt,Tech Online Store
+17,Issue Changing Status in Jira Software Project,"Dear Customer Support Team, 
+
+I am unable to change the issue status in my Jira Software 8.20 project. It seems to require an administrative viewing configuration adjustment. Please assist me in resolving this issue at your earliest convenience.
+
+Thank you, 
+<name> 
+Account Number: <acc_num> 
+Phone: <tel_num>",Customer Service,en,Software Development Company
+18,Dringende Unterstützung erforderlich,"Sehr geehrter Kundenservice, 
+
+Wir benötigen dringend Unterstützung bei der Konfiguration von Routing-Tabellen für unseren Cisco ISR4331 Router. Dies ist entscheidend für den reibungslosen Betrieb des Netzwerks an einem Standort des Kunden. Bitte priorisieren Sie diese Anfrage, da sie unsere Servicebereitstellung beeinflusst.
+
+Details des Routers: Cisco ISR4331.
+
+Vielen Dank, 
+
+<name>, IT-Beratungsfirma.
+<tel_num>",Technical Support,de,IT Consulting Firm
+21,Dringendes EC2-Problem,"Sehr geehrtes IT-Serviceteam, ich habe Probleme mit einer EC2-Instanz, die nicht reagiert. Ich benötige dringend Unterstützung für meine AWS-Management-Service-Umgebung. Bitte melden Sie sich so schnell wie möglich bei mir. Mit freundlichen Grüßen, <name>.",Technical Support,de,IT Services
+28,Anfrage zur Speicheraufrüstung,Ich benötige eine Speicheraufrüstungen für eine höhere Leistung,Customer Service,de,Tech Online Store
+36,Repeated Screen Flickering Issue Reported,"Dear Customer Support, I am writing to report repeated screen flickering issues with my recently purchased Microsoft Surface Pro 7. Despite trying several troubleshooting steps, the problem persists. Could you please guide me on how to proceed for repair or replacement? Your assistance in resolving this matter would be greatly appreciated. Thank you, <name> Email: <email> Phone: <tel_num>",Product Support,en,Tech Online Store
+40,Urgent: Repeated Cisco Router ISR4331 Reboots,"Dear Customer Support,
+
+Our enterprise network is facing unexpected reboots of our Cisco Router ISR4331, causing significant disruptions and downtimes. We urgently require a fix as this issue is impacting our operations. Please provide a timely resolution to prevent further issues.
+
+Best regards,
+<name>
+<acc_num>
+",Technical Support,en,IT Services
+47,Assistance Needed for Screen Flickering Issue,"Dear IT Services Support,
+
+I am facing an unexplained screen flickering issue on my Dell XPS 13 9310. Could you please provide troubleshooting assistance for this issue? Your help in resolving this matter as soon as possible would be greatly appreciated.
+
+Thank you, <name>",Technical Support,en,IT Services
+55,Issue with Dell XPS 13 9310,Screen goes black intermittently. Need troubleshooting for hardware or software cause.,Product Support,en,Tech Online Store
+57,Urgente: Problema con los tiempos de arranque lentos en MacBook Air M1,"Estimado Soporte al Cliente,
+
+Recientemente compré un MacBook Air M1 la semana pasada en su tienda. Desafortunadamente, estoy experimentando tiempos de arranque muy lentos con el dispositivo.
+
+Por favor, ayúdame a resolver este problema. Mi número de pedido es <order_num>.
+
+Gracias,
+<name>",Customer Service,es,Tech Online Store
+60,Ladeverzögerungsproblem in Jira Software,"Sehr geehrter Kundenservice,
+
+Ich erlebe eine erhebliche Verzögerung beim Laden von Projektmanagement-Boards in Jira Software 8.20. Dieses Problem wurde direkt nach den letzten wöchentlichen Updates zur Verfügbarkeit bemerkbar. Könnten Sie bitte dies untersuchen und das Problem so schnell wie möglich lösen? Ihre schnelle Unterstützung wäre sehr geschätzt.
+
+Vielen Dank,
+
+<name>
+Kundenkontonummer: <acc_num>
+Telefon: <tel_num>",Technical Support,de,IT Services
+66,Issue with HP DeskJet 3755 Wireless Function,"Dear Tech Online Store customer support, I cannot connect my HP DeskJet 3755 to mobile devices using the wireless function. Please assist me in resolving this issue. Thank you! Regards, <name>",Customer Service,en,Tech Online Store
+79,Problema de impresión inalámbrica,"Estimado Tech Online Store, estoy teniendo un problema con mi impresora HP DeskJet 3755. Muestra un error de conexión al intentar conectarse a mi red Wi-Fi. Por favor, ayúdame a resolver este problema. Saludos, <name>.",Technical Support,es,Tech Online Store
+81,Post-Update Concerns: MySQL 8.0.30 Database,"Greetings Support Team, 
+
+I am facing issues with the MySQL 8.0.30 database after a recent update. Specifically, I am unable to establish secure connections to the database. This problem started immediately following the update. I have attempted various troubleshooting techniques, but none have resolved the problem. Your swift assistance in resolving this matter would be greatly appreciated as it is impacting our operations. Please advise on the next steps to take.
+
+Thank you, 
+<Name> 
+<Account Number: <acc_num>> 
+<Phone: <tel_num>",Customer Service,en,IT Consulting Firm
+82,Dringende Beratungsanfrage,"Sehr geehrtes <name> Kundenserviceteam,
+
+Wir benötigen dringend Ihre IT-Beratung, um die Serveradministration für unsere Vertriebsabteilung zu verbessern. Ihr Fachwissen ist entscheidend. Bitte kontaktieren Sie uns so schnell wie möglich.
+
+Mit freundlichen Grüßen,
+<name>
+<tel_num>",Sales and Pre-Sales,de,IT Consulting Firm
+92,Screen Issue,"Hello, 
+
+I've been facing an issue where the screen on my Microsoft Surface Pro 7 stops responding to touch intermittently. Could you please provide urgent troubleshooting steps for this issue? Thank you.
+
+Best regards,
+
+<name>",Technical Support,en,Tech Online Store
+94,Issue with Dell XPS 13 9310 Trackpad Unresponsive,"Dear Tech Online Store Customer Support,
+
+I am reaching out to report an issue with my Dell XPS 13 9310. The trackpad becomes unresponsive and frequently lags whenever the laptop is unplugged from the power source. I would appreciate any assistance or guidance to resolve this issue at the earliest convenience. Thank you.
+
+Regards,
+<name>",Product Support,en,Tech Online Store
+95,Urgent: Immediate Assistance Needed for Payroll Application Failure,"Dear IT Consulting Firm Customer Support, Our HR reports that our primary payroll application has failed during processing. We urgently require your assistance to restore its operation. The affected service is the IT Consulting Service provided by your firm. Please get back to us as soon as possible. For any further information, please contact <name> at <tel_num>.",Human Resources,en,IT Consulting Firm
+98,Critical Outage Affecting AWS,"Dear Customer Support,
+
+I am writing to report a critical outage affecting the AWS Management Service. Our clients are currently unable to access their deployed cloud infrastructure through this service. This issue requires immediate attention as it significantly impacts our operations. Please investigate and resolve this at the earliest.
+
+Thank you,
+
+<name>
+Account Number: <acc_num>
+Phone: <tel_num>",Service Outages and Maintenance,en,IT Services
+105,Smart TV Screen Flicker,Customer support needed for Samsung QLED QN90A flickering issue.,Product Support,en,Tech Online Store
+106,Urgente: Malfuncionamiento de hardware en Dell XPS 13 9310,"Estimados Servicios de IT, nuestra Dell XPS 13 9310 experimenta ocasional parpadeo de pantalla y fallos intermitentes en la conectividad inalámbrica. Por favor, aconsejen sobre los próximos pasos para resolver estos problemas. Atentamente, <name>, <company name>, <email_address>, <phone_number>. Gracias.",IT Support,es,IT Services
+119,Problème de qualité d'impression couleur,"Cher service client,
+
+Je rencontre des problèmes constants avec la qualité d'impression couleur de mon HP DeskJet 3755. Les impressions sont en dessous des normes attendues et affectent négativement mon travail. Veuillez m'aider à résoudre ce problème dès que possible.
+
+Cordialement,
+<name>",IT Support,fr,IT Services
+122,Subscription Error Issue,Unable to access email and Excel for the past week.,Technical Support,en,Software Development Company
+125,Ticket Attachment Issue,Needs resolution in Jira.,Technical Support,en,IT Services
+126,Problema de Lentidão ao Carregar no Jira Software,"Prezado Suporte ao Cliente,
+
+Estou enfrentando lentidão significativa ao carregar painéis de gerenciamento de projetos no Jira Software 8.20. Esse problema se tornou perceptível logo após as recentes atualizações de verificação de disponibilidade semanal. Você poderia investigar e resolver essa questão o mais rápido possível? Sua assistência rápida seria muito apreciada.
+
+Obrigado,
+
+<name>
+Número da Conta: <acc_num>
+Telefone: <tel_num>",Technical Support,pt,IT Services
+128,Problema con Zoom 5.11.0 durante el seminario web,"Estimado Soporte, Durante nuestro reciente seminario web utilizando Zoom 5.11.0, los asistentes experimentaron cortes de audio repetidos y problemas de conectividad. Por favor, guíenos sobre cómo resolver este asunto urgente. Gracias, <name>",Technical Support,es,IT Services
+133,Asistencia Inmediata Requerida: Problemas con Jira Software,"Estimado Soporte al Cliente,
+
+Estoy escribiendo para informar problemas con nuestro seguimiento de proyectos y tableros de Scrum después de una reciente actualización del sistema. Estamos utilizando Jira Software 8.20. El seguimiento de proyectos y los tableros de Scrum han fallado. Este problema necesita una solución inmediata. Por favor, investiguen el asunto con urgencia.
+
+Gracias,
+
+<name>
+Número de Cuenta: <acc_num>
+Teléfono: <tel_num>",Technical Support,es,IT Consulting Firm
+140,Implantação Urgente de Servidores Durante a Queda do AWS,"Prezado Suporte ao Cliente,
+
+Precisamos da implantação imediata de servidores devido a uma interrupção de serviço de alta prioridade que está impactando nossa infraestrutura AWS. Por favor, trate deste problema com urgência para garantir uma interrupção mínima.
+
+Obrigado,
+
+<name>",Service Outages and Maintenance,pt,IT Services
+141,Printer Connection and Duplex Issues,"Hi, I am experiencing issues with my Canon PIXMA MG3620. It fails to connect wirelessly and displays inconsistent duplex printing. Please provide a solution for these problems. Thank you, <name>.",Technical Support,en,Tech Online Store
+143,Dringend: Wiederholte Neustarts des Cisco Routers ISR4331,"Sehr geehrter Kundenservice,
+
+Unser Firmennetzwerk hat mit unerwarteten Neustarts unseres Cisco Routers ISR4331 zu kämpfen, was zu erheblichen Störungen und Ausfallzeiten führt. Wir benötigen dringend eine Lösung, da dieses Problem unsere Abläufe beeinträchtigt. Bitte bieten Sie eine zeitnahe Lösung an, um weitere Probleme zu vermeiden.
+
+Mit freundlichen Grüßen,
+<name>
+<acc_num>",Technical Support,de,IT Services
+144,Solicitud de actualización de memoria,Necesito una actualización de memoria para un mejor rendimiento,Customer Service,es,Tech Online Store
+148,Drucker-Verbindungs- und Duplexprobleme,"Hallo, ich habe Probleme mit meinem Canon PIXMA MG3620. Er lässt sich nicht drahtlos verbinden und zeigt inkonsistentes Duplexdrucken an. Bitte geben Sie eine Lösung für diese Probleme. Danke, <name>.",Technical Support,de,Tech Online Store
+152,Erreur du système de paiement,"Chère équipe du support des services informatiques, je ne peux pas mettre à jour les détails de ma carte de crédit pour mon abonnement AWS en cours en raison d'une erreur du système de paiement. Pourriez-vous m'aider à résoudre ce problème ? Le produit concerné est le service de gestion AWS. Mon numéro de compte est <acc_num>. Merci, <name>.",Billing and Payments,fr,IT Services
+155,Problema com Anexo do Ticket,Precisa de resolução no Jira.,Technical Support,pt,IT Services
+157,Wireless Printing Issue,"Dear Tech Online Store, I'm experiencing an issue with my HP DeskJet 3755 printer. It displays a connection error when attempting to connect to my Wi-Fi network. Please assist me in resolving this problem. Best, <name>.",Technical Support,en,Tech Online Store
+165,Urgent EC2 issue,"Dear IT Services team, I am experiencing issues with an EC2 instance not responding. I require urgent assistance with my AWS Management Service environment. Please get back to me as soon as possible. Best regards, <name>.",Technical Support,en,IT Services
+172,Abonnementfehler,In der vergangenen Woche konnte ich nicht auf meine E-Mails und Excel zugreifen.,Technical Support,de,Software Development Company
+189,Problema de facturación,"Estimado servicio al cliente, encontré un problema de facturación mientras compraba una nueva suscripción a Adobe Photoshop 2024 a través de su portal de pago en línea. Mi cuenta fue cargada incorrectamente. Por favor, ayúdame a rectificar este problema. Puedes contactarme al <tel_num>. Saludos cordiales, <name>",Billing and Payments,es,Software Development Company
+204,Problem mit dem Dell XPS 13 9310 Bildschirmflackern,"Sehr geehrter Kunde des Tech Online Store, ich erlebe intermittierendes Bildschirmflackern mit meinem Dell XPS 13 9310. Dieses Problem verursacht erhebliche Unannehmlichkeiten bei der Arbeit. Ihre umgehende Unterstützung zur Lösung dieses Problems wäre sehr willkommen. Vielen Dank. Mit freundlichen Grüßen, <name>",Technical Support,de,Tech Online Store
+207,Problem mit dem Surface Pro 7-Touchscreen,"Sehr geehrter Kundensupport, ich habe Empfindlichkeitsprobleme mit dem Touchscreen meines Microsoft Surface Pro 7, was die Nutzung des Geräts erschwert. Können Sie mir mit einer Lösung helfen? Danke, <name>",Product Support,de,Tech Online Store
+218,Issue with Microsoft Office 365: Excel,"Dear Tech Online Store Customer Support, I am writing to report intermittent crashes occurring in Microsoft Excel when opening large spreadsheets within the Office 365 package. My experience has been significantly impacted as the crashes are unpredictable. I request technical assistance in resolving this issue at the earliest. Please find my details below for further reference: Name: <name> Phone Number: <tel_num> Account Number: <acc_num> Thank you. Best Regards, <name>",Product Support,en,Tech Online Store
+222,Urgent: Screen Flickering Issue with Dell XPS 13 9310,"Dear Customer Support,
+
+I am experiencing an issue with my Dell XPS 13 9310, where the screen flickers continuously. This problem is severely affecting my work, and I need an immediate resolution.
+
+Please advise on how this issue can be resolved as soon as possible. My account number is <acc_num>.
+
+Thank you,
+<name>",Technical Support,en,Tech Online Store
+223,Urgent AWS Assistance Needed,"Dear IT Services Support Team,
+
+My name is <name>, and I am in urgent need of assistance regarding AWS Management Services. We are currently facing challenges with optimizing our AWS costs and need help deploying a new, scalable infrastructure. This is critically affecting our operations and requires immediate attention.
+
+Could you please expedite this request and provide the necessary support as soon as possible? If required, I can be reached at <tel_num> for further details.
+
+Looking forward to your swift assistance.
+
+Best regards,
+<name>",IT Support,en,IT Services
+233,Urgent Configuration Change,"Dear IT Services Customer Support, We urgently need to change the server configuration and update our system in the ongoing IT solutions consulting projects. This is of high priority due to urgent requirements. The product affected is IT Consulting Service. Thank you, <name>.",IT Support,en,IT Services
+234,Urgente: Mau Funcionamento de Hardware no Dell XPS 13 9310,"Caro Serviços de TI, nosso Dell XPS 13 9310 está apresentando ocasionalmente cintilação na tela e falhas intermitentes de conectividade sem fio. Por favor, aconselhe sobre os próximos passos para resolver esses problemas. Atenciosamente, <name>, <company name>, <email_address>, <phone_number>. Obrigado.",IT Support,pt,IT Services
+245,Zahlungssystemfehler,"Sehr geehrter IT-Servicedienst, ich kann meine Kreditkartendaten für mein laufendes AWS-Abonnement aufgrund eines Zahlungssystemfehlers nicht aktualisieren. Könnten Sie mir bitte helfen, dieses Problem zu lösen? Das betroffene Produkt ist der AWS-Management-Service. Meine Kontonummer ist <acc_num>. Vielen Dank, <name>.",Billing and Payments,de,IT Services
+248,Dringende Unterstützung für Dell XPS 13 9310 erforderlich,"Sehr geehrter Kundenservice, ich habe kürzlich einen Dell XPS 13 9310 im Tech Online Store gekauft und habe kontinuierliche WLAN-Disconnect-Probleme. Das ist äußerst störend, da ich ein Vielnutzer bin. Könnten Sie mich bitte schnell zu einer Lösung führen oder temporäre Anschlussoptionen für dieses Problem bereitstellen? Danke. Mit freundlichen Grüßen, <name>",Product Support,de,Tech Online Store
+249,Visual Studio Code Issue,"Dear IT Services Support, I'm experiencing frequent freezing issues with Visual Studio Code 1.70 during code debugging on Windows 10. This affects my productivity significantly. Please assist in resolving this problem at the earliest convenience. Thank you. Regards, <name> <tel_num>",IT Support,en,IT Services
+268,Urgente: Problema com Dell XPS 13 9310,"Caro Suporte da Loja Online Tech,
+
+Estou enfrentando um problema com meu Dell XPS 13 9310, que às vezes congela e interrompe meu fluxo de trabalho. Você poderia me ajudar a diagnosticar e resolver esse problema?
+
+Obrigado,
+<name>
+Número da Conta: <acc_num>
+Telefone: <tel_num>",Technical Support,pt,Tech Online Store
+269,Dringendes Problem: Adobe Photoshop 2024 stürzt beim Start ab,"Sehr geehrtes Support-Team,
+
+ich erlebe kontinuierliche Abstürze mit Adobe Photoshop 2024 nach dem jüngsten Update. Dieses Problem beeinträchtigt meine Arbeit erheblich. Ich bitte um eine dringende Lösung. Meine Informationen sind wie folgt:
+
+Name: <name>,
+Telefon: <tel_num>,
+Kontonummer: <acc_num>.
+Vielen Dank für Ihre schnelle Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>",Customer Service,de,IT Services
+271,Urgente: Problema de tiempo de inactividad de la base de datos MySQL 8.0.30,"Nuestra base de datos principal de clientes, que ejecuta MySQL 8.0.30, está actualmente fuera de servicio. Esto ha provocado problemas significativos de disponibilidad que afectan a varios de nuestros servicios y operaciones. Necesitamos soporte urgente para resolver este asunto rápidamente.",IT Support,es,IT Consulting Firm
+272,Problème d'écran tactile non responsif sur Surface Pro 7,"Cher Support Client,
+
+Je rencontre un problème d'écran tactile non responsif sur ma Microsoft Surface Pro 7. Malgré plusieurs redémarrages, le problème persiste. Votre aide pour résoudre ce problème serait grandement appréciée. Merci.
+
+Cordialement,
+<name>",Customer Service,fr,IT Services
+276,Surface Pro 7 Problem,"Sehr geehrter Kundenservice, ich habe Probleme mit der Reaktionsfähigkeit des Touchscreens meines 2-in-1 Microsoft Surface Pro 7 Geräts. Bitte beraten Sie mich.",Technical Support,de,Tech Online Store
+281,Asistencia con errores de facturación,"Estimado Soporte al Cliente, he notado errores de facturación en mis facturas del servicio de consultoría de TI. ¿Podrían verificar y corregir los cargos? Mi número de cuenta es <acc_num>. Espero su asistencia. Atentamente, <name>.",Billing and Payments,es,IT Services
+283,Need Assistance with Deploying New Microservice,"Dear IT Services Support Team,
+
+I need assistance deploying a new microservice on AWS cloud infrastructure using the AWS full stack environment. The affected product is the AWS Management Service. Kindly advise on the best practices and provide a guided process for smooth deployment. I appreciate your prompt support on this matter.
+
+Thank you,
+<name>",Technical Support,en,IT Services
+287,Syntax Highlighting Problem,"Sehr geehrtes Support-Team, ich habe ein Problem mit der Syntax-Hervorhebung für Python-Dateien nach dem neuesten Update von Visual Studio Code 1.70. Könnten Sie bitte bei der Fehlersuche dieses Problems helfen? Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, <name>",General Inquiry,de,Software Development Company
+293,Solicitud de consulta urgente,"Estimado equipo de soporte al cliente <name>,
+
+Urgentemente necesitamos sus servicios de consultoría de TI para mejorar la administración de los servidores para nuestro departamento de ventas. Su experiencia es crucial. Por favor, contáctenos a la brevedad posible.
+
+Atentamente,
+<name>
+<tel_num>",Sales and Pre-Sales,es,IT Consulting Firm
+299,Solicitação de Atualização da Integração de Faturamento e Otimização do Fluxo de Trabalho,"Caro time de Suporte de Serviços de TI,
+
+Estou entrando em contato a respeito da minha recente solicitação para atualizar a integração de faturamento dentro da administração do servidor e otimizar o fluxo de trabalho das nossas soluções de TI. Atualmente estamos utilizando seu Serviço de Consultoria de TI.
+
+Obrigado.
+
+Atenciosamente,
+<name>
+Número da Conta: <acc_num>",Billing and Payments,pt,IT Services
+300,Problema de arranque del Dell XPS 13 9310,"{""name"" ha informado que su Dell XPS 13 9310 ha dejado de arrancar y muestra un error de pantalla azul tras una actualización de Windows 10. El problema parece crítico y necesita atención inmediata. ¿Podrías ayudar a resolver este asunto lo antes posible? Gracias por tu apoyo. Contacto en <tel_num> o por correo electrónico para más detalles.",Technical Support,es,IT Services
+303,Overheating issue with Dell XPS 13 9310 after usage,"Dear Support Team, I recently purchased a Dell XPS 13 9310 and am experiencing overheating issues after roughly an hour of use. Please assist in resolving this issue. looking forward to your prompt response. Regards, <name>.",Customer Service,en,Tech Online Store
+308,Warranty Replacement Request,"Dear Customer Support Team at Tech Online Store,
+
+I am contacting you to request a warranty replacement for my Canon PIXMA MG3620, which has stopped printing wirelessly. Despite multiple troubleshooting attempts, I’ve failed to resolve the issue. I would appreciate your assistance with the replacement procedure. This purchase was made using the account <acc_num>.
+
+Thank you for your support.
+
+Sincerely,
+<name>
+<tel_num>",Customer Service,en,Tech Online Store
+314,Doppelte Abrechnung,"Hallo Kundenservice,
+
+ich habe bemerkt, dass ich innerhalb desselben Abrechnungszeitraums für meine Adobe Photoshop 2024 Abonnementverlängerung zweimal abgerechnet wurde. Könnten Sie bitte helfen, dieses Problem zu lösen?
+
+Danke,
+<name>",Billing and Payments,de,Tech Online Store
+320,Assistance Needed for Project,"Dear support team, I need help setting up realization diagrams for our planned project directory consolidation. Utilizing IT Consulting Service for this task. Thank you. Sincerely, <name>.",Technical Support,en,IT Consulting Firm
+335,Problem mit Dell XPS 13 9310 nach dem Update,"Sehr geehrter Kunde des Tech Online Stores,
+
+ich möchte ein Problem mit meinem Dell XPS 13 9310 melden. Nach einem kürzlichen Windows-Update habe ich Probleme mit Flimmern des Bildschirms. Dieses Problem macht meinen Laptop schwer zu benutzen. Bitte teilen Sie mir die nächsten Schritte zur Behebung dieses Problems mit.
+
+Vielen Dank,
+<name>",Technical Support,de,Tech Online Store
+343,Frequent audio dropouts during video conferences,"Dear IT services support team, I am experiencing frequent audio dropouts during my video conferences despite having stable network conditions. This issue persists specifically with Zoom version 5.11.0. My account number is <acc_num>. Could you please assist in resolving this ongoing problem? Feel free to contact me at any time on <tel_num>. Your urgent attention to this matter would be highly appreciated. Thank you, <name>.",Customer Service,en,IT Services
+349,Probleme mit der Touchscreen-Empfindlichkeit beim Surface Pro 7,"Sehr geehrter Kunde des Tech Online Store,
+
+ich habe Probleme mit der Touchscreen-Empfindlichkeit meines Microsoft Surface Pro 7, insbesondere wenn ich das Gerät ohne die abgetrennte Tastatur benutze. Ich habe grundlegende Fehlersuche versucht, jedoch ohne Erfolg. Können Sie mir bitte hierbei helfen? Meine Kontonummer ist <acc_num>. Sie können mich unter <tel_num> erreichen oder auf diese E-Mail antworten.
+
+Danke,
+<name>",Product Support,de,Tech Online Store
+355,Surface Pro 7 Touchscreen Issues,"Dear Customer Support, I am experiencing intermittent touchscreen freezes on my Microsoft Surface Pro 7. This issue is impacting the usability of the device. Could you please assist in resolving this matter? Thank you in advance. Best, <name>",Customer Service,en,IT Services
+359,Urgent Issue: Jira Software 8.20 Failing to Initialize,"Hello Customer Support Team,
+
+We have encountered an urgent issue where Jira Software 8.20 is failing to initialize, severely disrupting our project management activities. We need immediate assistance to resolve this. Please address this as soon as possible.
+
+Thank you,
+<name>",Technical Support,en,Software Development Company
+362,Defekter Dell XPS 13 9310,"Sehr geehrter Tech Online Store Support, 
+
+ich habe einen Dell XPS 13 9310 mit einem defekten Display erhalten. Bitte arrangieren Sie einen Austausch so schnell wie möglich. Meine Bestellnummer ist <order_num>. Bitte kontaktieren Sie mich unter <email> oder <tel_num>, wenn Sie weitere Informationen benötigen.
+
+Mit freundlichen Grüßen, 
+<name>",Returns and Exchanges,de,Tech Online Store
+364,MacBook Air M1 com defeito,"Prezado Suporte ao Cliente,
+
+Recentemente recebi um MacBook Air M1 defeituoso da sua loja. A tela pisca constantemente e o teclado não funciona. Meu número de conta é <acc_num>. Por favor, informe como proceder com a troca ou reembolso.
+
+Obrigado,
+<name>",Customer Service,pt,Tech Online Store
+369,Assistência Urgente Necessária para AWS,"Caro time de suporte de Serviços de TI,
+
+Meu nome é <name>, e estou em necessidade urgente de assistência em relação aos Serviços de Gerenciamento da AWS. Atualmente, estamos enfrentando desafios para otimizar nossos custos da AWS e precisamos de ajuda para implantar uma nova infraestrutura escalável. Isso está afetando criticamente nossas operações e requer atenção imediata.
+
+Você poderia, por favor, acelerar este pedido e fornecer o suporte necessário o mais rápido possível? Se necessário, posso ser contatado pelo <tel_num> para mais detalhes.
+
+Aguardando sua rápida assistência.
+
+Atenciosamente,
+<name>",IT Support,pt,IT Services
+371,Solicitação de Configuração de Novo Servidor de Email,"Caro Time de Suporte de Serviços de TI,
+
+Nosso cliente, <name>, solicitou a adição de um novo servidor de email à sua rede existente. Precisamos de sua experiência para a configuração e testes da integração.
+
+Obrigado,
+<name>
+Número da Conta: <acc_num>
+Telefone: <tel_num>",IT Support,pt,IT Services
+375,Solicitação de Mudança de Fluxos de Trabalho,"Caro Time de Suporte, Estamos fazendo a transição para um novo método de gerenciamento de projetos e precisamos que nossos fluxos de trabalho no Jira Software 8.20 sejam reorganizados. Por favor, nos ajude o mais rápido possível. Obrigado, <name> <acc_num>",IT Support,pt,IT Services
+376,Screen Flickering Issue,"Dear Customer Support, I am experiencing screen flickering on my LG OLED C1, particularly affecting HDR content. This severely impacts viewing quality. Could you assist with troubleshooting or provide potential solutions? Thank you for your prompt attention. Sincerely, <name>",Sales and Pre-Sales,en,Tech Online Store
+383,Assistance Required for Persistent Paper Jam Issues with Canon Printer,"Dear Customer Support,
+
+I am writing to report persistent paper jam issues with my Canon PIXMA MG3620 printer. The problem occurs during light checkout documentation printing. I have ensured that the paper is not overloaded, and I have also checked for any visible obstructions. Despite these efforts, the issue persists. Could you please provide me with further assistance or suggest any additional troubleshooting steps? My printer's serial number is <acc_num>.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+<name>
+<tel_num>",Customer Service,en,Tech Online Store
+387,Dringend: Router-Fehlerbehebung erforderlich,"Sehr geehrter Kunde des Tech Online Stores, 
+
+Mein Cisco Router ISR4331 lässt sich trotz richtiger Anschluss nicht einschalten. Ich benötige so schnell wie möglich Unterstützung bei der Fehlersuche. Bitte teilen Sie mir die nächsten Schritte mit, um dieses Problem zu lösen. Meine Kontonummer ist <acc_num>. Sie können mich unter <tel_num> erreichen, wenn weitere Details benötigt werden.
+
+Vielen Dank,
+<name>",Technical Support,de,Tech Online Store
+388,Dringende Unterstützung benötigt für Zugangsproblem mit Jira Software,"Sehr geehrter Kundenservice, Benutzer können nach dem neuesten Update nicht auf die Projektmanagement-Funktionen in Jira Software zugreifen. Wir benötigen dringend Ihre Hilfe, um dieses Problem zu lösen. Wir verwenden die Jira Software Version 8.20. Bitte behandeln Sie dieses Anliegen so schnell wie möglich, um Unterbrechungen zu minimieren. Vielen Dank, <name>",Technical Support,de,Software Development Company
+392,Immediate Help Needed: Netgear Switch GS108 Issue,"Dear Tech Online Store Support Team,
+
+I am experiencing an issue with the Netgear Switch GS108 I recently purchased. After initial use, the device is now unresponsive and not powering on. I rely on this switch for my home network, so your prompt assistance would be greatly appreciated. Please advise on the next steps to resolve this issue or initiate a return process.
+
+Thank you for your support.
+
+Best regards,
+<name>",Technical Support,en,Tech Online Store
+398,Crash fréquents sur macOS avec Adobe Photoshop 2024,"Bonjour Service Client, je rencontre des crashs fréquents sur macOS lorsque j'essaie d'appliquer des effets de calque dans Adobe Photoshop 2024. Ce problème gêne gravement mon travail de design. Pourriez-vous s'il vous plaît fournir une assistance pour résoudre ce problème rapidement ? Merci, <name>. Contact : <tel_num>.",Product Support,fr,IT Services
+399,Consulta de Error de Facturación,"Estimado Servicio al Cliente, he notado un sobregiro en mi factura reciente por la suscripción de IntelliJ IDEA 2024.1. Por favor, proporcione una explicación detallada y corrija este error. Mi número de cuenta es <acc_num>. Gracias por su ayuda. Saludos, <name>",Billing and Payments,es,IT Services
+408,Assistance Urgente Requise,"Cher Support Client, Mon écran tactile de Microsoft Surface Pro 7 ne répond pas et l'appareil plante fréquemment. J'ai besoin d'un support technique immédiat pour résoudre ces problèmes. Mon nom est <name>, le numéro de contact est <tel_num>. Merci. Cordialement, <name>.",Technical Support,fr,Tech Online Store
+419,Dringende Unterstützung erforderlich: Jira-Softwareprobleme,"Sehr geehrter Kundenservice, 
+
+Ich schreibe, um Probleme mit unseren Projektverfolgungs- und Scrum-Boards nach einem kürzlichen Systemupdate zu melden. Wir verwenden Jira Software 8.20. Die Projektverfolgung und die Scrum-Boards haben versagt. Dieses Problem benötigt eine sofortige Lösung. Bitte schauen Sie sich die Angelegenheit dringend an.
+
+Danke,
+
+<name>
+Kontonummer: <acc_num>
+Telefon: <tel_num>",Technical Support,de,IT Consulting Firm
+420,Druckeranschluss- und Duplexprobleme,"Hallo, ich habe Probleme mit meinem Canon PIXMA MG3620. Es funktioniert nicht drahtlos und zeigt inkonsistentes Duplex-Drucken an. Bitte geben Sie eine Lösung für diese Probleme an. Vielen Dank, <name>.",Technical Support,de,Tech Online Store
+431,Sound Issue Dell XPS,"Issue with sound, handling as return. Within 30 days.",Returns and Exchanges,en,Tech Online Store
+437,Tonproblem Dell XPS,"Problem mit dem Sound, wird als Rücksendung bearbeitet. Innerhalb von 30 Tagen.",Returns and Exchanges,de,Tech Online Store
+443,Request for New Email Server Setup,"Dear IT Services Support Team,
+
+Our client, <name>, has requested adding a new email server to their existing network. We need your expertise for setup and testing of the integration.
+
+Thank you,
+<name>
+Account Number: <acc_num>
+Phone: <tel_num>",IT Support,en,IT Services
+444,Dell XPS 13 9310 : Problèmes de touchpad et surchauffe,"Cher support client, je possède un Dell XPS 13 9310 et rencontre des problèmes de touchpad et de surchauffe depuis une récente mise à jour du système. Ces problèmes affectent considérablement mon flux de travail. Pourriez-vous me fournir des conseils ou une solution ? Votre aide pour résoudre ce problème serait grandement appréciée. Merci. Sincèrement, <name>",Product Support,fr,Tech Online Store
+460,Problème de scintillement d'écran signalé à plusieurs reprises,"Cher support client, Je vous écris pour signaler des problèmes de scintillement d'écran répétés avec ma Microsoft Surface Pro 7 récemment achetée. Malgré plusieurs étapes de dépannage, le problème persiste. Pourriez-vous s'il vous plaît me guider sur la façon de procéder pour la réparation ou le remplacement ? Votre aide pour résoudre ce problème serait grandement appréciée. Merci, <name> Email : <email> Téléphone : <tel_num>",Product Support,fr,Tech Online Store
+461,MacBook Air M1 experiencing overheating issues during extended use,"Dear Tech Online Store support team, I have recently purchased a MacBook Air M1 and am experiencing overheating issues during long periods of use. Additionally, I have noticed significant power consumption spikes which affect battery life. This started happening a few weeks after my purchase. Please advise if this issue can be resolved remotely or if I need to return the product for inspection. Looking forward to your assistance. Regards, <name>",Product Support,en,Tech Online Store
+462,Déploiement urgent de serveurs pendant la panne AWS,"Cher Service Client,
+
+Nous avons besoin d'un déploiement immédiat de serveurs en raison d'une panne de service haute priorité impactant notre infrastructure AWS. Veuillez traiter ce problème d'urgence pour garantir une perturbation minimale.
+
+Merci,
+
+<name>",Service Outages and Maintenance,fr,IT Services
+463,Assistance Needed for Microsoft Office 365 Setup,"Dear Support Team, I am requesting help setting up email accounts and shared folders using Microsoft Office 365 on a new domain. Please provide guidance to complete this process successfully. Thank you. Sincerely, <name>",Customer Service,en,Software Development Company
+468,Assistance Urgente AWS Nécessaire,"Cher Équipe de Support des Services Informatiques,
+
+Je m'appelle <name>, et j'ai un besoin urgent d'assistance concernant les Services de Gestion AWS. Nous faisons actuellement face à des défis pour optimiser nos coûts AWS et avons besoin d'aide pour déployer une nouvelle infrastructure évolutive. Cela affecte gravement nos opérations et nécessite une attention immédiate.
+
+Pourriez-vous s'il vous plaît accélérer cette demande et fournir le soutien nécessaire dès que possible ? Si besoin, je peux être joint au <tel_num> pour plus de détails.
+
+Dans l'attente de votre assistance rapide.
+
+Cordialement,
+<name>",IT Support,fr,IT Services
+471,Urgente: problema com Dell XPS 13 9310,"Caro Suporte da Tech Online Store,
+
+Estou enfrentando um problema com meu Dell XPS 13 9310, que ocasionalmente congela e interrompe meu fluxo de trabalho. Você poderia me ajudar a diagnosticar e resolver esse problema?
+
+Obrigado,
+<name>
+Número da Conta: <acc_num>
+Telefone: <tel_num>",Technical Support,pt,Tech Online Store
+475,Problème avec le Dell XPS 13 9310,L'écran devient noir par intermittence. Besoin de dépannage pour une cause matérielle ou logicielle.,Product Support,fr,Tech Online Store
+481,Anfrage zur Leistungsoptimierung für das Ticketsystem,"Sehr geehrter Kundensupport,<br><br>Wir benötigen eine Leistungsoptimierung für unser bestehendes Ticketsystem sowie Unterstützung bei einer effizienten Lastverteilung auf dem Server. Die Probleme beeinträchtigen unseren IT-Consulting-Service und erfordern dringende Aufmerksamkeit.<br><br>Vielen Dank für Ihre Unterstützung.<br><br>Mit freundlichen Grüßen,<br><name>",Technical Support,de,IT Services
+489,Firmware-Update erforderlich,"Sehr geehrter Kundenservice,
+
+ich schreibe, um Sie über die Notwendigkeit eines Firmware-Updates für unseren Cisco Router ISR4331 zu informieren, um Sicherheitsanfälligkeiten zu beheben. Es ist für uns von entscheidender Bedeutung, eine nahtlose, leistungsstarke und sichere Netzwerkbereitstellung zu gewährleisten. Können Sie bitte Unterstützung in dieser Angelegenheit bereitstellen?
+
+Vielen Dank,
+<name>
+<tel_num>
+<acc_num>",IT Support,de,IT Services
+496,Troca solicitada para laptop com defeito,"Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para solicitar uma troca do meu laptop Dell XPS 13 9310 devido a uma falha após duas semanas de uso. Sua assistência rápida na resolução deste problema seria muito apreciada.
+
+Atenciosamente,
+<name>",Returns and Exchanges,pt,Tech Online Store
+501,Request for Updating Billing Integration and Optimizing Workflow,"Dear IT Services Support Team,
+
+I am reaching out regarding my recent request to update the billing integration within the server administration and optimize our IT solutions workflow. We are currently using your IT Consulting Service.
+
+Thank you.
+
+Best regards,
+<name>
+Account Number: <acc_num>",Billing and Payments,en,IT Services
+507,Solicitud Urgente del Cliente: Actualización de Jira Software 8.20,"Estimado Equipo de Soporte al Cliente, Nuestro cliente, <name>, ha solicitado urgentemente que actualicemos nuestra herramienta de gestión de proyectos a Jira Software 8.20. Requieren esta actualización para acceder a las mejoras en las funciones del sistema de tickets que se proporcionan en esta versión. El producto actualmente afectado es Jira Software utilizado para la gestión de proyectos. Por favor, prioricen esta solicitud y ayúdennos con los pasos necesarios para la actualización del software. Si necesitan más detalles o tienen alguna pregunta, no duden en contactarme directamente al <tel_num>. Gracias por su pronta atención a este asunto. Saludos cordiales, <name>.",IT Support,es,Software Development Company
+510,Anfrage zur Rückgabe eines defekten MacBook Air,"Hallo, ich habe ein MacBook Air M1 in Ihrem Geschäft gekauft und einen Defekt im Touchpad des Geräts festgestellt. Bitte helfen Sie mir mit dem Rückgabeprozess. Meine Bestellnummer ist <acc_num>. Vielen Dank, <name>, <tel_num>.",Returns and Exchanges,de,Tech Online Store
+516,Austausch für fehlerhaften Laptop angefordert,"Sehr geehrter Kundenservice,
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um einen Austausch für meinen Dell XPS 13 9310 Laptop aufgrund eines Fehlers nach zweiwöchiger Nutzung zu beantragen. Ihre schnelle Unterstützung bei der Lösung dieses Problems würde sehr geschätzt.
+
+Mit freundlichen Grüßen,
+<name>",Returns and Exchanges,de,Tech Online Store
+517,Ticket-Anhangsproblem,Muss in Jira gelöst werden.,Technical Support,de,IT Services
+522,Problemas com Chamadas no Zoom,"Caro Suporte ao Cliente,
+
+Nossa equipe de RH tem enfrentado quedas freqüentes de chamadas e qualidade de vídeo ruim durante as reuniões usando o Zoom 5.11.0. Isso afeta significativamente nossa produtividade. Por favor, ajude-nos a resolver esses problemas o mais rápido possível.
+
+Atenciosamente,
+<name>
+<position>
+<phone number>
+<company>",Human Resources,pt,IT Services
+523,Problemas frecuentes de VPN con Lenovo XPS 13,"Estimado soporte de Tech Online Store,
+
+Hemos estado experimentando fallos frecuentes en la conectividad de VPN con nuestro Dell XPS 13 9310. Este problema interrumpe las tareas remotas de alta prioridad. Necesitamos asistencia urgente para resolver este asunto.
+
+Gracias,
+<name>
+<name>
+<email>",IT Support,es,Tech Online Store
+524,Consulta de compatibilidad,"Estimado servicio de atención al cliente,
+
+Recientemente compré un MacBook Air M1 en su tienda. Necesito saber si este modelo es compatible con mi configuración de monitor inalámbrico externo. Por favor, proporcione la información necesaria a la mayor brevedad posible.
+
+Gracias,
+<name>",Product Support,es,Tech Online Store
+530,Austausch Anfrage für Canon PIXMA MG3620,"Hallo Tech Online Store, ich habe kürzlich einen Canon PIXMA MG3620 gekauft, aber er kann sich nicht mit meinem Wi-Fi verbinden. Ich möchte um einen Austausch bitten, da die Fehlerbehebungsmaßnahmen das Problem nicht gelöst haben. Meine Bestellnummer ist <order_num>. Vielen Dank.",Returns and Exchanges,de,Tech Online Store
+531,Problema con la pantalla parpadeante del Dell XPS 13 9310,"Estimado servicio de atención al cliente de Tech Online Store, estoy experimentando un parpadeo intermitente en la pantalla de mi Dell XPS 13 9310. Este problema está causando una gran inconveniencia mientras trabajo. Su pronta asistencia para resolver este asunto sería muy apreciada. Gracias. Saludos, <name>",Technical Support,es,Tech Online Store
+532,Urgent : Problème d'arrêt soudain,"Cher support de Tech Online Store, Je rencontre des problèmes d'arrêt soudain avec mon Dell XPS 13 9310. Cet incident nécessite une résolution urgente. Veuillez me conseiller sur les prochaines étapes. Merci, <name>",Product Support,fr,Tech Online Store
+539,Problèmes d'appel Zoom,"Cher service client,
+
+Notre équipe des ressources humaines rencontre des coupures d'appel fréquentes et une mauvaise qualité vidéo lors des réunions utilisant Zoom 5.11.0. Cela affecte significativement notre productivité. Nous vous prions de bien vouloir nous aider à résoudre ces problèmes dès que possible.
+
+Cordialement,
+<name>
+<position>
+<phone number>
+<company>",Human Resources,fr,IT Services
+540,Urgente: Problema de alimentación de Dell XPS,"Hola, servicio de atención al cliente de Tech Online Store,
+
+Estoy experimentando problemas de alimentación con mi Dell XPS 13 9310. La laptop no está cargando cuando está conectada. ¿Puede ayudarme urgentemente a resolver este problema?
+
+Gracias,
+<name>",Customer Service,es,Tech Online Store
+541,Dringend: Router-Fehlerbehebung benötigt ASAP,"Sehr geehrter Kunde von Tech Online Store, 
+
+Mein Cisco Router ISR4331 schaltet sich nicht ein, obwohl er richtig eingesteckt ist. Ich benötige so schnell wie möglich Hilfe bei der Fehlersuche zu diesem Problem. Bitte beraten Sie mich über die nächsten Schritte zur Lösung dieses Problems. Meine Kontonummer ist <acc_num>. Sie können mich unter <tel_num> erreichen, falls weitere Details erforderlich sind.
+
+Danke,
+<name>",Technical Support,de,Tech Online Store
+544,Assistance nécessaire pour un problème d'installation de mise à jour de Windows 10,"Bonjour équipe de support du Tech Online Store, je rencontre des problèmes lors de l'installation des mises à jour de Windows 10 sur ma Microsoft Surface Pro 7. Le processus d'installation échoue à chaque fois, et j'ai essayé plusieurs méthodes pour résoudre le problème sans succès. Pourriez-vous s'il vous plaît fournir de l'aide pour résoudre ce problème ? Mon numéro de compte est <acc_num>. Vous pouvez me contacter au <tel_num> pour plus de détails. Merci pour votre soutien. Cordialement, <name>",Product Support,fr,Tech Online Store
+553,Cobrança excessiva na assinatura anual do Microsoft Office 365,"Caro Suporte ao Cliente da Tech Online Store,
+
+Recentemente, notei uma cobrança excessiva na minha assinatura anual do Microsoft Office 365 para os serviços em nuvem da nossa equipe. Você poderia, por favor, me ajudar a resolver esse problema?
+
+Meu número da conta é <acc_num>. Agradeceria uma resolução rápida.
+
+Obrigado,
+<name>
+<tel_num>",Billing and Payments,pt,Tech Online Store
+562,Problèmes de performance critiques avec le Dell XPS 13 9310,"Cher service client, mon ordinateur portable Dell XPS 13 9310 rencontre des problèmes de performance critiques et plante fréquemment malgré une mémoire et un espace de stockage suffisants. Veuillez m'aider à résoudre ce problème dès que possible. Merci, <name>.",Technical Support,fr,Tech Online Store
+574,Urgente: Problema de apagado repentino,"Estimado soporte de la tienda en línea Tech, estoy experimentando problemas de apagado repentino con mi Dell XPS 13 9310. Este incidente necesita una resolución urgente. Por favor, aconsejen sobre los próximos pasos. Gracias, <name>",Product Support,es,Tech Online Store
+576,Problem beim Ändern des Status im Jira-Softwareprojekt,"Sehr geehrtes Kundenserviceteam,
+
+ich kann den Status des Problems in meinem Jira Software 8.20-Projekt nicht ändern. Es scheint, dass eine Anpassung der administrativen Ansichts-/Konfiguration erforderlich ist. Bitte helfen Sie mir, dieses Problem so schnell wie möglich zu lösen.
+
+Vielen Dank,
+<name>
+Kontonummer: <acc_num>
+Telefon: <tel_num>",Customer Service,de,Software Development Company
+582,Anfrage zur Monitor-Kompatibilität des Surface Pro 7,"Sehr geehrter Kundenservice,
+
+könnten Sie bitte Empfehlungen und Setups für kompatible externe Monitore für das Microsoft Surface Pro 7 geben? Ich suche nach detaillierten Informationen, um eine optimale Leistung zu erzielen.
+
+Mit freundlichen Grüßen,
+<name>",Product Support,de,IT Services
+588,Problema de Error de Suscripción,No se puede acceder al correo electrónico y Excel durante la última semana.,Technical Support,es,Software Development Company
+594,Échange demandé pour un ordinateur portable défectueux,"Cher support client,
+
+J'espère que ce message vous trouve en bonne santé. Je souhaite demander un échange de mon ordinateur portable Dell XPS 13 9310 en raison d'un dysfonctionnement après deux semaines d'utilisation. Votre assistance rapide pour résoudre ce problème serait grandement appréciée.
+
+Cordialement,
+<name>",Returns and Exchanges,fr,Tech Online Store
+596,Necesito ayuda con el despliegue de un nuevo microservicio,"Estimado equipo de soporte de servicios de TI,
+
+Necesito ayuda para desplegar un nuevo microservicio en la infraestructura de nube de AWS utilizando el entorno de pila completa de AWS. El producto afectado es el Servicio de Gestión de AWS. Por favor, aconsejen sobre las mejores prácticas y proporcionen un proceso guiado para un despliegue sin problemas. Aprecio su pronta respuesta en este asunto.
+
+Gracias,
+<name>",Technical Support,es,IT Services

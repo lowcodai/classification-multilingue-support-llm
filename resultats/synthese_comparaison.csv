@@ -1,0 +1,7 @@
+version,F1 pondéré,IC95 % bootstrap,exactitude
+Qwen3-8B (sans personnalisation),0.4706,[0.380 ; 0.572],0.5333
+"Qwen3-8B sans personnalisation, prompt compact",0.3911,[0.305 ; 0.483],0.4167
+Qwen3-8B + LoRA (personnalisé),0.9329,[0.884 ; 0.975],0.9333
+"Qwen3.8-27B (vLLM, sans personnalisation)",0.426,[0.333 ; 0.532],0.5083
+TF-IDF + régression logistique (sans LLM),0.636,[0.540 ; 0.714],0.65
+1 plus proche voisin bge-m3 (sans LLM),0.9752,[0.943 ; 1.000],0.975

@@ -1,0 +1,12 @@
+{
+ "lr": 0.0004,
+ "epochs": 4,
+ "rank": 16,
+ "alpha": 32,
+ "dropout": 0.05,
+ "batch_size": 4,
+ "grad_accum": 2,
+ "base_model": "Qwen/Qwen3-8B",
+ "val_f1_base": 0.3782287157287157,
+ "val_f1_retenu": 0.8930077597840755
+}
